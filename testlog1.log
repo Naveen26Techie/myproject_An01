@@ -1,0 +1,515 @@
+2024-07-03 18:08:42,352 [main] INFO Amazon e-com  - chrome is starting
+2024-07-03 18:09:14,615 [main] INFO Amazon e-com  - url is opening
+2024-07-03 18:09:14,845 [main] INFO Amazon e-com  - URL is opened
+2024-07-03 18:09:17,004 [main] INFO Amazon e-com  - sign in clicked
+2024-07-03 18:09:17,151 [main] INFO Amazon e-com  - Mailbox clicked
+2024-07-03 18:09:18,058 [main] INFO Amazon e-com  - continue button clicked
+
+2024-07-04 11:28:50,835 [main] INFO Amazon e-com  - chrome is starting
+2024-07-04 11:29:53,885 [main] INFO Amazon e-com  - url is opening
+2024-07-04 11:29:54,357 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 11:29:58,956 [main] INFO Amazon e-com  - sign in clicked
+2024-07-04 11:39:57,260 [main] INFO Amazon e-com  - url is opening
+2024-07-04 11:39:57,435 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 11:40:02,369 [main] INFO Amazon e-com  - sign in clicked
+2024-07-04 11:58:36,378 [main] INFO Amazon e-com  - url is opening
+2024-07-04 11:58:36,465 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 11:58:39,650 [main] INFO Amazon e-com  - sign in clicked
+2024-07-04 12:05:03,544 [main] INFO Amazon e-com  - url is opening
+2024-07-04 12:05:03,636 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 12:27:34,052 [main] INFO Amazon e-com  - url is opening
+2024-07-04 12:27:34,202 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 12:27:36,227 [main] INFO Amazon e-com  - sign in clicked
+2024-07-04 12:31:34,612 [main] INFO Amazon e-com  - url is opening
+2024-07-04 12:31:34,725 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 12:31:38,043 [main] INFO Amazon e-com  - sign in clicked
+2024-07-04 12:46:10,499 [main] INFO Amazon e-com  - url is opening
+2024-07-04 12:46:10,567 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 12:46:13,007 [main] INFO Amazon e-com  - sign in clicked
+2024-07-04 12:50:23,519 [main] INFO Amazon e-com  - url is opening
+2024-07-04 12:50:23,669 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 12:50:26,475 [main] INFO Amazon e-com  - sign in clicked
+2024-07-04 12:50:26,843 [main] INFO Amazon e-com  - Mailbox clicked and Entered the mail
+2024-07-04 12:50:27,771 [main] INFO Amazon e-com  - continue button clicked
+2024-07-04 13:46:27,627 [main] INFO Amazon e-com  - Firefox is starting
+2024-07-04 13:46:43,738 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 13:46:43,978 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 13:46:46,180 [main] INFO Amazon e-com  - Sign in clicked
+2024-07-04 13:59:52,394 [main] INFO Amazon e-com  - Firefox is starting
+2024-07-04 14:00:01,708 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 14:00:01,771 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 14:00:04,697 [main] INFO Amazon e-com  - Sign in clicked
+2024-07-04 23:05:42,401 [main] INFO Amazon e-com  - url is opening
+2024-07-04 23:05:42,598 [main] INFO Amazon e-com  - URL is opened
+2024-07-04 23:05:49,146 [main] INFO Amazon e-com  - sign in clicked
+2024-07-04 23:05:49,273 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-04 23:05:50,970 [main] INFO Amazon e-com  - continue button clicked
+2024-07-04 23:05:51,106 [main] INFO Amazon e-com  - Login password Entered
+2024-07-04 23:05:54,298 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-05 19:22:53,821 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:22:53,894 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:22:58,104 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:22:58,350 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-05 19:23:00,056 [main] INFO Amazon e-com  - continue button clicked
+2024-07-05 19:23:00,133 [main] INFO Amazon e-com  - Login password Entered
+2024-07-05 19:23:03,555 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-05 19:24:19,901 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:24:19,976 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:24:21,980 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:26:43,888 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:26:43,960 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:26:50,024 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:27:47,561 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:27:47,656 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:27:49,958 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:30:17,313 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:30:17,377 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:30:19,388 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:34:47,136 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:34:47,247 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:34:49,321 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:44:57,693 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:44:57,762 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:45:00,557 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:45:00,602 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-05 19:45:02,734 [main] INFO Amazon e-com  - continue button clicked
+2024-07-05 19:45:02,815 [main] INFO Amazon e-com  - Login password Entered
+2024-07-05 19:45:08,109 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-05 19:47:35,336 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:47:35,419 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:47:38,079 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:53:53,267 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:53:53,332 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:53:57,103 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 19:55:28,740 [main] INFO Amazon e-com  - url is opening
+2024-07-05 19:55:28,811 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 19:55:31,570 [main] INFO Amazon e-com  - sign in clicked
+2024-07-05 20:11:02,852 [main] INFO Amazon e-com  - url is opening
+2024-07-05 20:11:02,929 [main] INFO Amazon e-com  - URL is opened
+2024-07-05 20:11:04,906 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:05:15,854 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:05:15,939 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:05:18,704 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:07:59,461 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:08:56,317 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:08:56,372 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:09:14,116 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:09:38,364 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:09:38,444 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:09:42,093 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:10:21,052 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:10:33,919 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:10:33,996 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:10:36,534 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:10:36,660 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-06 19:10:37,673 [main] INFO Amazon e-com  - continue button clicked
+2024-07-06 19:10:37,782 [main] INFO Amazon e-com  - Login password Entered
+2024-07-06 19:10:39,807 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-06 19:11:14,082 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:11:28,838 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:11:28,937 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:11:30,972 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:16:29,972 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:16:43,794 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:16:43,869 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:16:47,870 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:47:14,269 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:47:55,389 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:47:55,470 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:47:58,937 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:50:50,526 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:51:38,402 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:51:38,484 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:51:51,298 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:54:07,646 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:54:20,155 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:54:20,214 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:54:22,792 [main] INFO Amazon e-com  - sign in clicked
+2024-07-06 19:54:38,733 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-06 19:54:51,946 [main] INFO Amazon e-com  - continue button clicked
+2024-07-06 19:54:58,219 [main] INFO Amazon e-com  - Login password Entered
+2024-07-06 19:55:04,730 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-06 19:55:17,051 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-06 19:58:04,061 [main] INFO Amazon e-com  - chrome is starting
+2024-07-06 19:58:19,208 [main] INFO Amazon e-com  - url is opening
+2024-07-06 19:58:19,285 [main] INFO Amazon e-com  - URL is opened
+2024-07-06 19:58:21,557 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 11:02:12,301 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 11:02:38,199 [main] INFO Amazon e-com  - url is opening
+2024-07-08 11:02:38,340 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 11:02:40,676 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 11:02:44,010 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 11:11:58,483 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 11:12:09,274 [main] INFO Amazon e-com  - url is opening
+2024-07-08 11:12:09,350 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 11:12:11,257 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 11:12:14,423 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 11:12:14,579 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 11:16:34,384 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 11:16:43,385 [main] INFO Amazon e-com  - url is opening
+2024-07-08 11:16:43,455 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 11:16:45,558 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 11:16:48,701 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 11:16:50,274 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 11:16:50,353 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 11:16:50,470 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 11:16:54,527 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:10:21,285 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:10:33,997 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:10:34,077 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:10:36,185 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:10:39,350 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:10:39,444 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:16:11,538 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:16:26,563 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:16:26,652 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:16:29,417 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:16:32,607 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:16:32,787 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:16:36,196 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 15:16:36,408 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 15:16:44,028 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:22:27,895 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:22:39,751 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:22:39,830 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:22:41,876 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:22:45,015 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:22:46,502 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:22:46,606 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 15:22:46,765 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 15:22:54,051 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:31:24,467 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:31:36,027 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:31:36,131 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:31:38,160 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:31:41,358 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:31:41,520 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:31:43,508 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 15:31:43,710 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 15:31:48,788 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:33:02,101 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:33:13,561 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:33:13,626 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:33:16,526 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:33:19,721 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:33:19,910 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:33:23,997 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 15:33:24,154 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 15:33:28,793 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:43:06,252 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:43:17,099 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:43:17,183 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:43:21,256 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:43:24,429 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:43:25,602 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:43:25,731 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 15:43:25,914 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 15:43:28,905 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:49:33,711 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:49:44,536 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:49:44,617 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:49:46,889 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:49:50,041 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:49:51,106 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:49:51,230 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 15:49:51,403 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 15:49:54,458 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:54:18,148 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:54:29,962 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:54:30,033 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:54:32,345 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:54:35,480 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:54:36,607 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:54:36,711 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 15:54:36,850 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 15:54:44,517 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:58:45,889 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 15:58:55,344 [main] INFO Amazon e-com  - url is opening
+2024-07-08 15:58:55,415 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 15:58:57,443 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 15:59:00,673 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 15:59:00,849 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 15:59:02,842 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 15:59:03,041 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 15:59:07,571 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 15:59:13,339 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 16:46:50,469 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 16:47:09,113 [main] INFO Amazon e-com  - url is opening
+2024-07-08 16:47:09,199 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 16:47:12,195 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 16:47:15,360 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 16:47:15,506 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 16:47:18,791 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 16:47:18,935 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 16:47:24,469 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 16:47:28,190 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 16:47:28,697 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 16:52:27,556 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 16:53:07,669 [main] INFO Amazon e-com  - url is opening
+2024-07-08 16:53:07,754 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 16:53:11,856 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 16:53:15,013 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 16:53:15,172 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 16:53:18,637 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 16:53:18,852 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 16:53:26,209 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 16:53:33,722 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 16:53:34,203 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 16:53:36,476 [main] INFO Amazon e-com  - pen selected
+2024-07-08 16:56:50,623 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 16:57:08,423 [main] INFO Amazon e-com  - url is opening
+2024-07-08 16:57:08,509 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 16:57:16,834 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 16:57:20,009 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 16:57:20,177 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 16:57:23,783 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 16:57:23,986 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 16:57:39,008 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 16:57:48,057 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 16:57:48,581 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 16:57:50,803 [main] INFO Amazon e-com  - pen selected
+2024-07-08 17:01:48,514 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 17:02:02,542 [main] INFO Amazon e-com  - url is opening
+2024-07-08 17:02:02,616 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 17:02:05,320 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 17:02:08,507 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 17:02:08,663 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 17:02:15,679 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 17:02:15,868 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 17:02:31,331 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 17:02:47,113 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 17:02:47,581 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 17:02:50,516 [main] INFO Amazon e-com  - pen selected
+2024-07-08 17:22:17,544 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 17:22:30,820 [main] INFO Amazon e-com  - url is opening
+2024-07-08 17:22:30,895 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 17:22:32,901 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 17:22:36,092 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 17:22:36,248 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 17:22:37,690 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 17:22:37,842 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 17:22:43,591 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 17:22:47,768 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 17:22:48,269 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 17:22:50,180 [main] INFO Amazon e-com  - pen selected
+2024-07-08 17:31:20,387 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 17:31:29,970 [main] INFO Amazon e-com  - url is opening
+2024-07-08 17:31:30,063 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 17:31:32,047 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 17:31:35,248 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 17:31:35,407 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 17:31:37,349 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 17:31:37,589 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 17:31:41,272 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 17:31:44,757 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 17:31:45,618 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 17:31:46,139 [main] INFO Amazon e-com  - pen selected
+2024-07-08 17:34:53,338 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 17:35:04,541 [main] INFO Amazon e-com  - url is opening
+2024-07-08 17:35:04,631 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 17:35:06,563 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 17:35:09,739 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 17:35:09,898 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 17:35:11,285 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 17:35:11,452 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 17:35:15,401 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 17:35:19,556 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 17:35:20,246 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 17:35:20,723 [main] INFO Amazon e-com  - pen selected
+2024-07-08 17:43:10,750 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 17:43:21,060 [main] INFO Amazon e-com  - url is opening
+2024-07-08 17:43:21,156 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 17:43:23,161 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 17:43:26,357 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 17:43:26,528 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 17:43:28,246 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 17:43:28,438 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 17:43:32,105 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 17:43:35,640 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 17:43:36,569 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 17:43:37,011 [main] INFO Amazon e-com  - pen selected
+2024-07-08 17:47:16,526 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 17:47:28,118 [main] INFO Amazon e-com  - url is opening
+2024-07-08 17:47:28,185 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 17:47:30,147 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 17:47:33,355 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 17:47:33,507 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 17:47:35,158 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 17:47:35,329 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 17:47:40,056 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 17:47:45,243 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 17:47:45,807 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 17:47:46,243 [main] INFO Amazon e-com  - pen selected
+2024-07-08 17:47:46,536 [main] INFO Amazon e-com  - buy button selected
+2024-07-08 23:05:19,088 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 23:05:48,975 [main] INFO Amazon e-com  - url is opening
+2024-07-08 23:05:49,116 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 23:05:52,161 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 23:05:55,450 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 23:05:55,694 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 23:06:00,779 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 23:06:01,115 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 23:06:29,779 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 23:06:36,558 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 23:06:37,389 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 23:06:37,928 [main] INFO Amazon e-com  - pen selected
+2024-07-08 23:06:38,265 [main] INFO Amazon e-com  - Side options flex clicked
+2024-07-08 23:15:32,869 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 23:15:46,301 [main] INFO Amazon e-com  - url is opening
+2024-07-08 23:15:46,448 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 23:15:49,216 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 23:15:52,545 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 23:15:52,761 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 23:15:54,685 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 23:15:54,916 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 23:16:00,304 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 23:16:06,502 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 23:16:07,234 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 23:16:07,746 [main] INFO Amazon e-com  - pen selected
+2024-07-08 23:16:08,037 [main] INFO Amazon e-com  - Side options flex clicked
+2024-07-08 23:16:13,502 [main] INFO Amazon e-com  - best sellers option clicked
+2024-07-08 23:21:34,711 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 23:21:57,836 [main] INFO Amazon e-com  - url is opening
+2024-07-08 23:21:58,014 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 23:22:00,869 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 23:22:04,152 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 23:22:04,392 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 23:22:06,628 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 23:22:06,955 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 23:22:15,265 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 23:22:19,588 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 23:22:20,275 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 23:22:20,723 [main] INFO Amazon e-com  - pen selected
+2024-07-08 23:22:21,034 [main] INFO Amazon e-com  - Side options flex clicked
+2024-07-08 23:22:30,374 [main] INFO Amazon e-com  - best sellers option clicked
+2024-07-08 23:23:29,966 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 23:23:42,390 [main] INFO Amazon e-com  - url is opening
+2024-07-08 23:23:42,518 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 23:24:44,536 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 23:24:58,074 [main] INFO Amazon e-com  - url is opening
+2024-07-08 23:24:58,241 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 23:25:00,649 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 23:25:03,932 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 23:25:04,175 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 23:25:06,049 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 23:25:06,256 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 23:28:48,096 [main] INFO Amazon e-com  - chrome is starting
+2024-07-08 23:29:01,050 [main] INFO Amazon e-com  - url is opening
+2024-07-08 23:29:01,217 [main] INFO Amazon e-com  - URL is opened
+2024-07-08 23:29:03,776 [main] INFO Amazon e-com  - sign in clicked
+2024-07-08 23:29:07,130 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-08 23:29:07,438 [main] INFO Amazon e-com  - continue button clicked
+2024-07-08 23:29:09,475 [main] INFO Amazon e-com  - Login password Entered
+2024-07-08 23:29:09,801 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-08 23:29:14,335 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-08 23:29:18,523 [main] INFO Amazon e-com  - search button clicked
+2024-07-08 23:29:19,280 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-08 23:29:19,892 [main] INFO Amazon e-com  - pen selected
+2024-07-08 23:29:20,502 [main] INFO Amazon e-com  - Side options flex clicked
+2024-07-08 23:29:28,105 [main] INFO Amazon e-com  - best sellers option clicked
+2024-07-08 23:29:35,586 [main] INFO Amazon e-com  - best sellers product selected
+2024-07-09 10:40:38,370 [main] INFO Amazon e-com  - chrome is starting
+2024-07-09 10:41:09,701 [main] INFO Amazon e-com  - url is opening
+2024-07-09 10:41:10,149 [main] INFO Amazon e-com  - URL is opened
+2024-07-09 10:41:13,188 [main] INFO Amazon e-com  - sign in clicked
+2024-07-09 10:41:16,652 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-09 10:41:16,923 [main] INFO Amazon e-com  - continue button clicked
+2024-07-09 10:41:20,542 [main] INFO Amazon e-com  - Login password Entered
+2024-07-09 10:41:20,868 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-09 10:41:29,024 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-09 10:41:43,363 [main] INFO Amazon e-com  - search button clicked
+2024-07-09 10:41:44,134 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-09 10:41:44,698 [main] INFO Amazon e-com  - pen selected
+2024-07-09 10:41:45,017 [main] INFO Amazon e-com  - Side options flex clicked
+2024-07-09 10:41:53,275 [main] INFO Amazon e-com  - best sellers option clicked
+2024-07-09 10:42:20,199 [main] INFO Amazon e-com  - best sellers product selected
+2024-07-09 10:45:34,129 [main] INFO Amazon e-com  - chrome is starting
+2024-07-09 10:45:56,271 [main] INFO Amazon e-com  - url is opening
+2024-07-09 10:45:56,470 [main] INFO Amazon e-com  - URL is opened
+2024-07-09 10:46:00,289 [main] INFO Amazon e-com  - sign in clicked
+2024-07-09 10:46:03,558 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-09 10:46:03,837 [main] INFO Amazon e-com  - continue button clicked
+2024-07-09 10:46:07,447 [main] INFO Amazon e-com  - Login password Entered
+2024-07-09 10:46:07,767 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-09 10:46:14,269 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-09 10:46:26,105 [main] INFO Amazon e-com  - search button clicked
+2024-07-09 10:46:26,928 [main] INFO Amazon e-com  - specific item selected using checkbox
+2024-07-09 10:46:27,430 [main] INFO Amazon e-com  - pen selected
+2024-07-09 10:46:27,716 [main] INFO Amazon e-com  - Side options flex clicked
+2024-07-09 10:46:50,558 [main] INFO Amazon e-com  - best sellers option clicked
+2024-07-09 10:47:18,784 [main] INFO Amazon e-com  - best sellers product selected
+2024-07-09 10:49:05,806 [main] INFO Amazon e-com  - chrome is starting
+2024-07-09 10:49:45,652 [main] INFO Amazon e-com  - url is opening
+2024-07-09 10:49:45,753 [main] INFO Amazon e-com  - URL is opened
+2024-07-09 10:53:18,443 [main] INFO Amazon e-com  - url is opening
+2024-07-09 10:53:18,620 [main] INFO Amazon e-com  - URL is opened
+2024-07-09 10:53:23,316 [main] INFO Amazon e-com  - sign in clicked
+2024-07-09 10:53:26,515 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-09 10:53:27,056 [main] INFO Amazon e-com  - continue button clicked
+2024-07-09 10:53:31,042 [main] INFO Amazon e-com  - Login password Entered
+2024-07-09 10:53:35,287 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-09 10:53:35,700 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-09 10:53:45,881 [main] INFO Amazon e-com  - search button clicked
+2024-07-09 11:07:24,201 [main] INFO Amazon e-com  - url is opening
+2024-07-09 11:07:24,295 [main] INFO Amazon e-com  - URL is opened
+2024-07-09 11:07:26,802 [main] INFO Amazon e-com  - sign in clicked
+2024-07-09 11:07:29,983 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-09 11:07:30,358 [main] INFO Amazon e-com  - continue button clicked
+2024-07-09 11:07:35,313 [main] INFO Amazon e-com  - Login password Entered
+2024-07-09 11:07:45,648 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-09 11:07:46,075 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-09 11:08:01,119 [main] INFO Amazon e-com  - search button clicked
+2024-07-09 11:10:18,775 [main] INFO Amazon e-com  - url is opening
+2024-07-09 11:10:18,864 [main] INFO Amazon e-com  - URL is opened
+2024-07-09 11:10:21,748 [main] INFO Amazon e-com  - sign in clicked
+2024-07-09 11:10:24,948 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-09 11:10:25,333 [main] INFO Amazon e-com  - continue button clicked
+2024-07-09 11:10:27,135 [main] INFO Amazon e-com  - Login password Entered
+2024-07-09 11:10:30,883 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-09 11:10:31,257 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-09 11:10:39,581 [main] INFO Amazon e-com  - search button clicked
+2024-07-12 10:24:40,527 [main] INFO Amazon e-com  - url is opening
+2024-07-12 10:24:40,646 [main] INFO Amazon e-com  - URL is opened
+2024-07-12 10:24:48,585 [main] INFO Amazon e-com  - sign in clicked
+2024-07-12 10:24:51,756 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-12 10:24:52,981 [main] INFO Amazon e-com  - continue button clicked
+2024-07-12 10:24:53,111 [main] INFO Amazon e-com  - Login password Entered
+2024-07-12 10:25:00,035 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-12 10:25:00,376 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-12 10:25:08,725 [main] INFO Amazon e-com  - search button clicked
+2024-07-12 11:11:34,106 [main] INFO Amazon e-com  - url is opening
+2024-07-12 11:11:34,198 [main] INFO Amazon e-com  - URL is opened
+2024-07-12 11:11:40,373 [main] INFO Amazon e-com  - sign in clicked
+2024-07-12 11:11:43,483 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-12 11:11:43,776 [main] INFO Amazon e-com  - continue button clicked
+2024-07-12 11:11:44,934 [main] INFO Amazon e-com  - Login password Entered
+2024-07-12 11:11:48,530 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-12 11:11:48,735 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-12 11:12:03,450 [main] INFO Amazon e-com  - search button clicked
+2024-07-15 10:58:04,097 [main] INFO Amazon e-com  - url is opening
+2024-07-15 14:44:01,051 [main] INFO Amazon e-com  - url is opening
+2024-07-15 14:44:01,138 [main] INFO Amazon e-com  - URL is opened
+2024-07-15 14:44:03,505 [main] INFO Amazon e-com  - sign in clicked
+2024-07-15 14:44:06,628 [main] INFO Amazon e-com  - phonebox clicked and Entered the phonenumber
+2024-07-15 14:44:07,010 [main] INFO Amazon e-com  - continue button clicked
+2024-07-15 14:44:08,202 [main] INFO Amazon e-com  - Login password Entered
+2024-07-15 14:44:11,400 [main] INFO Amazon e-com  - password Entered and signin clicked 
+2024-07-15 14:44:11,751 [main] INFO Amazon e-com  -  search item Entered 
+2024-07-15 14:44:14,556 [main] INFO Amazon e-com  - search button clicked
+2024-07-15 14:44:31,454 [main] INFO Amazon e-com  - url is opening
+2024-07-15 14:45:00,472 [main] INFO Amazon e-com  - url is opening
+2024-07-16 12:45:47,363 [main] INFO Amazon e-com  - url is opening
+2024-07-16 12:45:47,470 [main] INFO Amazon e-com  - URL is opened
+2024-07-16 12:45:52,006 [main] INFO Amazon e-com  - Sign in clicked
+2024-07-16 12:45:52,141 [main] INFO Amazon e-com  - Phone number entered
+2024-07-16 12:45:53,188 [main] INFO Amazon e-com  - Continue button clicked
+2024-07-16 12:45:53,279 [main] INFO Amazon e-com  - Login password entered
+2024-07-16 12:46:25,323 [main] INFO Amazon e-com  - Password entered and sign-in clicked
+2024-07-19 16:28:42,457 [main] INFO Amazon e-com - Firefox is starting
+2024-07-19 16:29:10,355 [main] INFO Amazon e-com - URL is opened
+2024-07-19 16:29:10,569 [main] INFO Amazon e-com - URL is opened
+2024-07-19 16:29:24,181 [main] INFO Amazon e-com - Sign in clicked
+2024-07-19 16:29:24,341 [main] INFO Amazon e-com - Phone number entered
+2024-07-19 16:29:24,630 [main] INFO Amazon e-com - Continue button clicked
+2024-07-19 16:29:31,791 [main] INFO Amazon e-com - Login password entered
+2024-07-19 16:29:36,359 [main] INFO Amazon e-com - Password entered and sign-in clicked

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-19T16:28:42 IST" name="Suite" finished-at="2024-07-19T16:29:38 IST" duration-ms="56443">
+    <groups>
+    </groups>
+    <test started-at="2024-07-19T16:28:42 IST" name="Test" finished-at="2024-07-19T16:29:38 IST" duration-ms="56443">
+      <class name="testcases.LoginTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.LoginTestCase@7e5afaa6]" started-at="2024-07-19T16:28:42 IST" name="setup" finished-at="2024-07-19T16:29:10 IST" duration-ms="28054" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:testcases.LoginTestCase@7e5afaa6]" started-at="2024-07-19T16:29:10 IST" name="loginTest" finished-at="2024-07-19T16:29:36 IST" duration-ms="25972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTestCase@7e5afaa6]" started-at="2024-07-19T16:29:36 IST" name="tearDown" finished-at="2024-07-19T16:29:38 IST" duration-ms="2343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
